@@ -1,0 +1,17 @@
+{
+  "name": "ipfs-download",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node downloadFiles.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "thirdweb": "^5.46.1"
+  }
+}
